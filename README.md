@@ -13,7 +13,7 @@ Always want to make my very own brutefoce tool
 A high-performance, multi-threaded login form weakness scanner with a user-friendly graphical interface (GUI). This tool is designed for penetration testers and security professionals to efficiently test web application login forms for weak credentials.
 
 <p align="center">
-  <img src="Screenshot1.png" alt="BruteForce GUI" width="600">
+  <img src="Screenshot.png" alt="BruteForce GUI" width="600">
   <br>
   <i>Main application interface</i>
   <em>BruteForce</em>
